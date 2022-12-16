@@ -1,0 +1,10 @@
+Notes
+	in lol_v1_new.py, the random seed was fixed to 1143. This means that the model was always training with the same data
+	
+	They don't cross-validate
+	
+	
+	
+Ideas:
+	Maybe add a penalty to the loss function based on pixel values
+		Euclidean distance
